@@ -1,6 +1,6 @@
 # Wild Tech "Garden" shareable bits
 
-Here you will find the parts of Wild Tech "Garden" that I know I able to share,
+Here you will find the parts of Wild Tech "Garden" that I know I am able to share,
 and for which I have decided to do so.
 
 It is my hope that some of this content will prove useful to others (with proper
