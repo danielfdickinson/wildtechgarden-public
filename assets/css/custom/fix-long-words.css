@@ -1,0 +1,9 @@
+pre, code, a {
+    overflow-wrap: anwhere;
+    overflow-wrap: break-word;
+    word-break: break-all;
+}
+
+.main-block li pre {
+    min-width: auto;
+}
