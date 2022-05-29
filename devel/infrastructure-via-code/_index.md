@@ -44,7 +44,7 @@ The various scripts and dummy configuration files are available in a Git reposit
 
 ### Why
 
-These meanderings were initiated due to the issues described in [Terraforming OVH Is Not Paradise](../blog/2021-06-05-terraforming-with-ovh-is-not-paradise.md) in which [Terraform](https://www.terraform.io) developed issues after a relatively short time (\< two months) of using it to manage a personal infrastructure on OVH. This seems to be due to Terraform making the assumption that the unique id's for resources it manages are permanent and this assumption not holding true for the OVH API nor for OpenStack at OVH.
+These meanderings were initiated due to the issues described in [Terraforming OVH Is Not Paradise](/blog/terraforming-with-ovh-is-not-paradise/) in which [Terraform](https://www.terraform.io) developed issues after a relatively short time (\< two months) of using it to manage a personal infrastructure on OVH. This seems to be due to Terraform making the assumption that the unique id's for resources it manages are permanent and this assumption not holding true for the OVH API nor for OpenStack at OVH.
 
 In addition, this has been a chance for the author to practise Python 3 programming since that isn't his strongest language.
 
