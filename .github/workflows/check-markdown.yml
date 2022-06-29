@@ -1,0 +1,32 @@
+---
+name: check-markdown
+on:
+  pull_request:
+    types:
+      - assigned
+      - opened
+      - synchronize
+      - reopened
+    branches:
+      - main
+      - 'v[0-9]*'
+  push:
+    branches:
+      - main
+      - 'v[0-9]*'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check-source-code-validity:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+      - name: "Verify content formatting validity (Markdown lint)"
+        uses: DavidAnson/markdownlint-cli2-action@v5
+        with:
+          globs: |
+            README.md
+            **/*.md
+
