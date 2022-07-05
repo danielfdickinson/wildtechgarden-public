@@ -4,7 +4,6 @@ slug: infrastructure-via-code
 aliases:
     - /projects/experimental-learning/infrastructure-via-code/
     - /develop-design/infrastructure-via-code/
-    - /devel/infrastructure-via-code/
 title: "ARCHIVED: Infrastructure via Code"
 date: 2021-06-06T13:05:18-04:00
 publishDate: 2021-06-06T17:14:46-04:00
