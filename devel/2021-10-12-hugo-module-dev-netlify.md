@@ -3,7 +3,7 @@ imageFeatured: /assets/images/cover/hugo-source-code-in-vscode.png
 slug: hugo-module-dev-netlify
 aliases:
     - /develop-design/web-design-web-devel/hugo-module-dev-netlify/
-title: "ARCHIVED: Hugo Module Development With Netlify"
+title: "ARCHIVED: Hugo module development with Netlify"
 date: 2021-10-12T17:10:00-0400
 publishDate: 2021-10-12T17:10:00-0400
 author: Daniel F. Dickinson

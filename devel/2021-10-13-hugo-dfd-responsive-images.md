@@ -3,7 +3,7 @@ imageFeatured: /assets/images/cover/princesandmadmen-responsive-thumbnails.png
 slug: hugo-dfd-responsive-images
 aliases:
     - /develop-design/web-design-web-devel/hugo-dfd-responsive-images/
-title: "Hugo DFD Image Handling"
+title: "Hugo DFD image handling"
 date: 2021-10-13T05:30:42Z
 publishDate: 2021-10-13T05:30:42Z
 author: Daniel F. Dickinson

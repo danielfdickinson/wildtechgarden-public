@@ -18,7 +18,7 @@ tags:
 - frontend
 - web-design
 - web-devel
-title: "ARCHIVED: A Font For All Ages"
+title: "ARCHIVED: A font for all ages"
 description: "Especially if you are older, have dirty or inadequate glasses, are just tired, or are using a small screen, you may find sites use an excessively small font."
 weight: 14900
 imageFeaturedAlt: "Water falling from a glass ceiling in a large atrium"

@@ -3,7 +3,7 @@ imageFeatured: /assets/images/cover/screenshot-aqua-theme.png
 slug: hugo-dfd-demo-site-theme
 aliaes:
     - /develop-design/web-design-web-devel/hugo-dfd-demo-site-theme/
-title: "ARCHIVED: Hugo DFD Demo Site Theme"
+title: "ARCHIVED: Hugo DFD demo site theme"
 date: 2021-10-19T05:52:30Z
 publishDate: 2021-10-19T05:52:30Z
 author: Daniel F. Dickinson

@@ -3,7 +3,7 @@ imageFeatured: /assets/images/cover/hugo-minimal-test-theme-demo.png
 slug: hugo-minimal-test-docs
 aliases:
     - /develop-design/web-design-web-devel/test-theme-and-debug-tables/hugo-minimal-test-docs/
-title: "Hugo Minimal Test Module/Theme"
+title: "Hugo minimal test module/theme"
 date: 2021-10-13T05:27:54Z
 publishDate: 2021-10-13T05:27:54Z
 author: Daniel F. Dickinson

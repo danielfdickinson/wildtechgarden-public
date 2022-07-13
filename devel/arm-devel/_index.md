@@ -4,7 +4,7 @@ slug: arm-devel
 author: Daniel F. Dickinson
 date: '2021-09-17T13:57:00-0400'
 publishDate: '2021-09-17T13:57:00-0400'
-title: ARM Development
+title: ARM development
 description: "Developing for ARM-based hardware"
 summary: "Developing for ARM-based hardware"
 tags:

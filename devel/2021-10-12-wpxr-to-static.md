@@ -3,7 +3,7 @@ imageFeatured: /assets/images/cover/wordpress-to-hugo.svg
 slug: wpxr-to-static
 aliases:
     - /develop-design/web-design-web-devel/wpxr-to-static/
-title: "WPXR to Static"
+title: "WPXR to static"
 date: 2021-10-13T02:54:33Z
 publishDate: 2021-10-13T02:54:33Z
 author: Daniel F. Dickinson

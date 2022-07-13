@@ -5,7 +5,7 @@ aliases:
     - /develop-design/web-design-web-devel/hugo-dfd-metadata-central/
     - /develop-design/web-design-web-devel/hugo-dfd-microformats/
     - /devel/hugo-dfd-microformats/
-title: "Hugo DFD Metadata and Microformats"
+title: "Hugo DFD metadata and microformats"
 date: 2021-10-24T01:58:40Z
 publishDate: 2021-10-24T01:58:40Z
 author: Daniel F. Dickinson

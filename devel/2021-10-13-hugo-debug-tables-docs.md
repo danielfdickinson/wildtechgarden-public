@@ -3,7 +3,7 @@ imageFeatured: /assets/images/cover/screenshot-aqua-theme.png
 slug: hugo-debug-tables-docs
 aliases:
     - /develop-design/web-design-web-devel/test-theme-and-debug-tables/hugo-debug-tables-docs/
-title: "Hugo Debug Tables Docs"
+title: "Hugo debug tables docs"
 date: 2021-10-13T05:24:12Z
 publishDate: 2021-10-13T05:24:12Z
 author: Daniel F. Dickinson
