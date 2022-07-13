@@ -20,6 +20,8 @@ description: "Hugo module for gathering metadata, and adding metadata and microf
 summary: "Hugo module for gathering metadata, and adding metadata and microformats to HTML ('head' and elsewhere)"
 featuredImageAlt: "A screenshot of a website showing a list of properties and their values"
 imageFeaturedOpacity: .1
+pageCanonical: false
+toCanonical: https://github.com/danielfdickinson/metadata-mod-hugo-dfd
 ---
 
 {{< page-assets "README-metadata-central.md" >}}

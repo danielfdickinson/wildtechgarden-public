@@ -22,6 +22,8 @@ imageFeaturedAlt: "The word 'WordPress' over a red filter cone to the Hugo logo"
 imageFeaturedPaddingColour: "#96ccff"
 titleOverImageColour: "#111"
 imageFeaturedOpacity: .5
+pageCanonical: false
+toCanonical: https://github.com/danielfdickinson/wpxr-to-static
 ---
 
 {{< page-assets "README-wpxr.md" >}}

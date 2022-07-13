@@ -18,6 +18,7 @@ description: "Hugo theme module for demo sites for hugo modules"
 summary: "Hugo theme module for demo sites for hugo modules"
 # This is 'borrowed' from another of my sites, so don't canonicalize it here.
 pageCanonical: false
+toCanonical: https://github.com/danielfdickinson/hugo-dfd-demo-site-theme
 featuredImageAlt: "Screenshot of a basic website theme with aqua colouring"
 imageAddWrapper: false
 weight: 9990

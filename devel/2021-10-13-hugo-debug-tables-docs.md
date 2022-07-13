@@ -18,6 +18,7 @@ description: "Hugo module for debugging theme and site issues (debug tables)"
 summary: "Hugo module for debugging theme and site issues (debug tables)"
 # This is 'borrowed' from another of my sites, so don't canonicalize it here.
 pageCanonical: false
+toCanonical: https://github.com/danielfdickinson/hugo-debug-tables
 featuredImageAlt: "Screenshot of a basic website theme with aqua colouring"
 ---
 

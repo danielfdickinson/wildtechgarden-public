@@ -18,7 +18,8 @@ description: "Hugo module for creating minimal test cases to demonstrate Hugo is
 summary: "Hugo module for creating minimal test cases to demonstrate Hugo issues"
 # This is 'borrowed' from another of my sites, so don't canonicalize it here.
 pageCanonical: false
-featuredImageAlt: "A screen shot of a website with almost not styling and a basic table with solid borders on the bottom of the screen"
+toCanonical: https://github.com/danielfdickinson/minimal-test-theme-hugo-dfd
+featuredImageAlt: "A screen shot of a website with almost no styling and a basic table with solid borders on the bottom of the screen"
 ---
 
 {{< page-assets "hugo-minimal-test-README.md" >}}

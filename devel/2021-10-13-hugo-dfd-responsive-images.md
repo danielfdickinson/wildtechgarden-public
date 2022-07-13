@@ -17,6 +17,8 @@ tags:
 description: "Hugo module for many images needs, including responsive images from markdown, shortcodes and cover images"
 summary: "Hugo module for many images needs, including responsive images from markdown, shortcodes and cover images"
 featuredImageAlt: "Screenshot of a website with thumbnail pictures on the left of rounded boxes containing page descriptions"
+pageCanonical: false
+toCanonical: https://github.com/danielfdickinson/image-handling-mod-hugo-dfd
 ---
 
 {{< page-assets "hugo-dfd-responsive-images-README.md" >}}
