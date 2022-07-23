@@ -52,8 +52,6 @@ title: "Additional resources"
 
 [Recommended Reading Reference - tips &amp; tricks - HUGO](https://discourse.gohugo.io/t/recommended-reading-reference/14815)
 
-
-
 ## Site Building
 
 ### Dynamic CMS
