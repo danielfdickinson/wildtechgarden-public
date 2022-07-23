@@ -10,7 +10,7 @@ tags:
 imageFeaturedAlt: "Illustration of a round penguin with an RSS feed logo on its belly"
 description: "About a month ago I made a change to the website layouts that broke the RSS (news) feeds. This is now fixed."
 summary: "About a month ago I made a change to the website layouts that broke the RSS (news) feeds. This is now fixed."
-header_image_opacity: o-20
+header_image_opacity: .2
 ---
 
 About a month ago I made a change to the website layouts that broke the RSS (news) feeds. This is now fixed. This is an object lesson in why a developer should never assume a change is too trivial to cause problems. I did, it did, blech!
