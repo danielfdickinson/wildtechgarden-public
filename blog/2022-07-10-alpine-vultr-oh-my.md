@@ -13,12 +13,12 @@ tags:
     - site-news
 description: "This site now lives on an Alpine instance via Vultr.com public cloud. No more Azure Blobs (Microsoft) for me!"
 imageFeaturedAlt: "Vulture soaring above mountains"
-summary: "This site now lives on an Alpine instance via Vultr.com public cloud. No more Azure Storage Blob web hosting (Microsoft) for me! And though it wasn't a financial decision, I save money!"
+summary: "This site now lives on an [Alpine](https://alpinelinux.org) instance via [Vultr.com](https://www.vultr.com) public cloud. No more Azure Storage Blob web hosting (Microsoft) for me! And though it wasn't a financial decision, I save money!"
 ---
 
 ## Preface
 
-In [a post in April where I talk about being 'up to tech'](2022-04-19-i-have-been-up-to-tech.md), even before [making much of this site's source content source code public](2022-05-29-its-raining-content.md), I mentioned that I was making changes to me systems, and had planned changes to my systems. Well, this site now lives on an Alpine instance via Vultr.com public cloud. No more Azure Storage Blob web hosting (Microsoft) for me! And though it wasn't a financial decision, I save money!
+In [a post in April where I talk about being 'up to tech'](2022-04-19-i-have-been-up-to-tech.md), even before [making much of this site's source content source code public](2022-05-29-its-raining-content.md), I mentioned that I was making changes to me systems, and had planned changes to my systems. Well, this site now lives on an [Alpine](https://alpinelinux.org) instance via [Vultr.com](https://www.vultr.com) public cloud. No more Azure Storage Blob web hosting (Microsoft) for me! And though it wasn't a financial decision, I save money!
 
 Aside from having decided to switch my workstations back to Linux as the primary operating system instead of [a more Windows-centric approach](../deploy-admin/a-more-windows-centric-approach/_index.md), I have decided to ditch Microsoft 365 as well as the use of Microsoft's Azure (public cloud).
 
