@@ -12,4 +12,5 @@ pageCanonical: false
 featuredImageAlt: "Screenshot of a SSH session from Windows 10 to a Debian Linux system"
 layout: sectionmap
 sectionMaxDepth: 2
+weight: 1300
 ---

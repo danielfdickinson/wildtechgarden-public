@@ -19,4 +19,5 @@ pageCanonical: false
 featuredImageAlt: "A picture of a Raspberry Pi connected to the JTAG port of Netgear router, with special effects added"
 layout: sectionmap
 sectionMaxDepth: 2
+weight: 900
 ---
