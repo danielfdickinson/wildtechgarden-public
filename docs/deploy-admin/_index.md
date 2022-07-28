@@ -1,10 +1,6 @@
 ---
 imageFeatured: /assets/images/cover/WindowsSSHSession.png
 slug: deploy-admin
-aliases:
-    - /sysadmin-devops/
-    - /docs/sysadmin-devops/
-    - /deploy-admin
 title: Ops
 description: "Deployment, System Administration and DevOps"
 # This is mostly just a list of other pages, so don't canonicalize
@@ -13,4 +9,5 @@ featuredImageAlt: "Screenshot of a SSH session from Windows 10 to a Debian Linux
 layout: sectionmap
 sectionMaxDepth: 2
 weight: 1300
+omitFromList: true
 ---
