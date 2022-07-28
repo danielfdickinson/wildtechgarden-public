@@ -338,4 +338,4 @@ See the [Visual Studio Code Guide to Developing in WSL](https://code.visualstudi
    6. Assuming you have previously initialized the repo, and created the password file, Click 'Run'. The task should run for some time, and when done the status code should be ``0x0`` (success).
 
 [^1]:
-      For doing backups. See [Enabling Backups of WSL](../2021-04-24-common-windows-and-linux.md#enabling-backups-of-wsl) for some info on how you might set that up, only use `restic` instead of `borg`. For more details on restic, see [Restic documentation on 'Read The Docs'](https://restic.readthedocs.io/en/stable/).
+      For doing backups. See [Enabling Backups of WSL](../linux-focus-with-windows/2021-04-24-common-windows-and-linux.md#enabling-backups-of-wsl) for some info on how you might set that up, only use `restic` instead of `borg`. For more details on restic, see [Restic documentation on 'Read The Docs'](https://restic.readthedocs.io/en/stable/).
