@@ -13,6 +13,4 @@ tags:
     - web-design
 # This is mostly just a list of other pages, so don't canonicalize
 pageCanonical: false
-layout: sectionmap
-sectionMaxDepth: 2
 ---
