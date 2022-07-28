@@ -9,7 +9,7 @@ tags:
     - content
     - devel
     - open-source
-    - self-hosting
+    - self-host
     - site-news
 description: "This site now lives on an Alpine instance via Vultr.com public cloud. No more Azure Blobs (Microsoft) for me!"
 imageFeaturedAlt: "Vulture soaring above mountains"
