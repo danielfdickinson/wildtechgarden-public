@@ -8,9 +8,11 @@ aliases:
 - /docs/web-design/accessibility/a-font-for-all-ages/
 - /develop-design/web-design-web-devel/a-font-for-all-ages/
 - /devel/a-font-for-all-ages/
+- /blog/a-font-for-all-ages/
 author: Daniel F. Dickinson
 date: '2021-02-13T07:39:44+00:00'
 publishDate: '2021-02-03T21:38:50+00:00'
+weight: 9000
 tags:
 - accessibility
 - archived

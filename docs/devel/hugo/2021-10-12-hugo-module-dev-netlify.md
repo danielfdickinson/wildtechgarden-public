@@ -4,6 +4,7 @@ slug: hugo-module-dev-netlify
 aliases:
     - /develop-design/web-design-web-devel/hugo-module-dev-netlify/
     - /devel/hugo-module-dev-netlify/
+    - /blog/hugo-module-dev-netlify/
 title: "ARCHIVED: Hugo module development with Netlify"
 date: 2021-10-12T17:10:00-0400
 publishDate: 2021-10-12T17:10:00-0400

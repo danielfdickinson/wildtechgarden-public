@@ -6,6 +6,7 @@ aliases:
     - /converting-emails-merge-purge/
     - /post/converting-emails-merge-purge/
     - /posts/converting-emails-merge-purge/
+    - /blog/converting-emails-merge-purge/
 author: Daniel F. Dickinson
 categories:
 date: '2021-01-13T20:34:34+00:00'
