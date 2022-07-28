@@ -7,7 +7,6 @@ title: "Docker Network: LAN to Container"
 date: 2022-02-21T11:48:46-05:00
 tags:
     - containers
-    - docker
     - hosting
     - linux
     - networking

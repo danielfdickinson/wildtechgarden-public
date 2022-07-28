@@ -7,7 +7,7 @@ date: 2021-07-16T22:20:00-04:00
 publishDate: 2021-07-16T22:20:00-04:00
 tags:
 - linux
-  - site-news
+- site-news
 - windows
 - windows-and-linux
 description: "'We' have added a new set of pages for a Windows-Centric Combined Windows and Linux Setup"

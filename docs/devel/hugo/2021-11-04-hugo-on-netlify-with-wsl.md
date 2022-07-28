@@ -13,7 +13,6 @@ tags:
     - sysadmin-devops
     - windows
     - windows-and-linux
-    - wsl
 description: "A configuration for using Hugo on WSL(2) with Netlify and Netlify CLI"
 summary: "A configuration for using Hugo on WSL(2) with Netlify and Netlify CLI"
 toc: true

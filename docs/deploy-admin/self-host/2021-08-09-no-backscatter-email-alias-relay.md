@@ -9,7 +9,6 @@ date: 2021-08-09T06:26:09-0400
 publishDate: 2021-08-09T06:26:09-0400
 tags:
 - backscatter
-- email
 - linux
 - security
 - self-host

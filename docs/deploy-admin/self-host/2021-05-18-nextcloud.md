@@ -10,9 +10,7 @@ publishDate: 2021-05-20T07:32:04-04:00
 tags:
 - cloud
 - linux
-- nextcloud
 - self-host
-- sync
 - sysadmin-devops
 summary: "Setting up your own local Nextcloud can be useful for a number of reasons."
 toc: true

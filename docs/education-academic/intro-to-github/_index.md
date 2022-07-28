@@ -19,6 +19,7 @@ description: An Introduction to Git & GitHub based on a presentation I created f
   a group of fellow Makers at the MakerPlace at the Midland Public Library
 tags:
 - devel
+- educational
 - git
 - sysadmin-devops
 - web-design

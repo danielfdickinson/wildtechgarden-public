@@ -17,7 +17,7 @@ there are imperfections for a power user / developer like me, but those
 idiosyncrasies are minor compared to the more problematic ones found in Windows."
 description: "I went all in with Windows/MS365 and discovered why I love Linux. Take, for example, the 'backup story'"
 tags:
-- data-protection
+- data-and-security
 - infrastructure
 - linux
 - opinion

@@ -8,16 +8,12 @@ date: 2022-03-07T21:56:48Z
 publishDate: 2022-03-07T21:56:48Z
 author: Daniel F. Dickinson
 tags:
-    - backups
-    - configuration
-    - examples
+    - backup
     - git
     - gitea
     - linux
     - restic
     - sysadmin-devops
-    - system-administration
-    - systemd
 imageFeaturedAlt: "Photo of a silver wind-up alarm clock with a white face and black time markings and hands on a lichen-covered rock with an out of focus meadow in the background"
 description: "Fully configured details of two SystemD timer use cases"
 summary: "Most blog entries on SystemD timers give trivial samples. This article takes a different approach and provides the full details of two examples of using SystemD timers that are in active use on my systems."
